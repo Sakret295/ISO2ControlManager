@@ -1,0 +1,8 @@
+
+
+.controlBtn {
+    -fx-background-color: lightgrey;
+    -fx-image: url("icons/hammer.png");
+    -fx-background-repeat: no-repeat;
+    -fx-background-position: top;
+}

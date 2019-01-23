@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding" addBOMForNewFiles="with NO BOM">
+    <file url="file://$PROJECT_DIR$/../ISO2ADMIN/res/hammer.png" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/src/iso2ControlManager/ui/dialogs/ChoiceDialogListView.java" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/src/iso2ControlManager/ui/dialogs/FxDialogs.java" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/src/resources/icons/clock.png" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/src/resources/icons/hammer.png" charset="windows-1251" />
+    <file url="PROJECT" charset="UTF-8" />
+  </component>
+</project>
